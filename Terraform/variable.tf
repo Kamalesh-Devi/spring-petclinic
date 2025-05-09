@@ -1,8 +1,8 @@
 variable "aws_region" {
-  default = "ap-northeast-1"
+  default = "us-east-1"
 }
 
 variable "cluster_name" {
-  default = "eks-demo-tokyo"
+  default = "eks-demo-us"
 }
 
